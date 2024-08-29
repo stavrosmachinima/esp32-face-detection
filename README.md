@@ -9,4 +9,9 @@ Fake Person created with the tool [Url for creating faces](https://this-person-d
 ![Face Identification of a Woman](https://github.com/user-attachments/assets/43f9b1b2-e9ae-427a-aed4-0bf9957915a0)
 
 
+Example Output
+
+
 ![Serial Output example in Arduino IDE](https://github.com/user-attachments/assets/920e3993-ca65-48f6-b099-6891a0b96899)
+
+It can also detect multiple faces at once if one changes the configuration.
