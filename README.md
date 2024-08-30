@@ -1,6 +1,6 @@
 # esp32-face-detection-minimal
 
-## Fun Arduino project created with the esp32-camera
+## Minimal esp32-camera face-detection Arduino project
 
 I first used the web-server in examples in Arduino IDE but face-detection didn't work...
 Then, I found out the expanded web-server in 3.x branch, there is face-detection but said my chip had too small storage space...
