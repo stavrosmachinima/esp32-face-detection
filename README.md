@@ -1,4 +1,4 @@
-# esp32-face-detection-minimal
+# esp32-minimal-face-detection
 
 ## Minimal esp32-camera face-detection Arduino project
 
