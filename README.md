@@ -1,8 +1,12 @@
-# esp32-face-detection
+# esp32-face-detection-minimal
 
 ## Fun Arduino project created with the esp32-camera
 
-It differs with other projects that in this case, I create my own streaming configuration, sensor configuration, face detection configuration and my own drawings of the face.
+I first used the web-server in examples in Arduino IDE but face-detection didn't work...
+Then, I found out the expanded web-server in 3.x branch, there is face-detection but said my chip had too small storage space...
+So, I created my **OWN**.
+
+It also differs with other projects that in this case, I create my own streaming configuration, sensor configuration, face detection configuration and my own drawings of the face.
 
 Fake Person created with the tool [Url for creating faces](https://this-person-does-not-exist.com/en)
 
